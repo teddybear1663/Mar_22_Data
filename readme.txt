@@ -4,3 +4,6 @@ Clone using
 Remember to unzip data.tar using 
 !tar -xf /content/Mar_22_Data/data.tar
 
+Upload files from 
+AMD_upload_Data.ipynb 
+colab
